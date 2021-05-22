@@ -1,1 +1,3 @@
+#Jekyll configuration
 theme: jekyll-theme-cayman
+markdown: kramdown
